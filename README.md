@@ -1,3 +1,5 @@
+# Hello, world! 
+
 ## Sobre mim
 - 🎓 Estudante de Ciência da Computação na USP (ICMC).
 - 🌱 Aprendendo mais sobre C, JavaScript e Linux.

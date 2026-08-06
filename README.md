@@ -3,7 +3,8 @@
 ## Sobre mim
 - 🎓 Estudante de Ciência da Computação na USP (ICMC).
 - 🌱 Aprendendo mais sobre C e C++, JavaScript e Linux.
-- 💻 Gosto de cyber security e competitive programming.
+- 💻 Gosto e estou aprendendo sobre cyber security e competitive programming.
+- 🐘 Faço parte do GANESH (grupo de segurança da informação do ICMC).
 
 ## Minhas Skills
 

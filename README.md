@@ -24,5 +24,5 @@
 ## Onde me encontrar
 
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siulhenrique3@gmail.com)](mailto:siulhenrique3@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-siulhenrique3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siulhenrique3@gmail.com)](mailto:siulhenrique3@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/luishvarela/)

@@ -4,7 +4,7 @@
 - 🎓 Estudante de Ciência da Computação na USP (ICMC).
 - 🌱 Aprendendo mais sobre C e C++, JavaScript e Linux.
 - 💻 Gosto e estou aprendendo sobre cyber security e competitive programming.
-- 🐘 Faço parte do GANESH (grupo de segurança da informação do ICMC).
+- 🐘 Faço parte do Ganesh (grupo de segurança da informação e cibersegurança do ICMC), no qual estou aprendendo mais sobre Redes e vulnerabilidades Web.
 
 ## Minhas Skills
 
